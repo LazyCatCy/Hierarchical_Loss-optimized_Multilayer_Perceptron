@@ -13,12 +13,12 @@ For detailed information on the model architecture and loss function calculation
 
 This repository includes the following key components:
 
-# H-Lo-MLP Model Implementation
+## H-Lo-MLP Model Implementation
 
 - Training scripts for the H-Lo-MLP model
 - Prediction pipeline using trained models
 
-# Analysis Scripts
+## Analysis Scripts
 
 - Feature importance calculation
 - Comparison with traditional One-vs-All methods
